@@ -1,1 +1,1 @@
-Chanchito Feliz 
+Chanchito Feliz git remote add origin https://github.com/IgnacioSanchezMoreno/miweb.git
